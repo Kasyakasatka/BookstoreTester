@@ -1,0 +1,22 @@
+# Visual Studio
+.vs/
+
+# Binaries
+[Dd]ebug/
+[Rr]elease/
+bin/
+obj/
+
+# Build artifacts
+publish/
+*.pdb
+*.suo
+*.user
+
+# Packages
+[Nn]u[Gg]et/
+*.nupkg
+
+# Sensitive files (as per our discussion)
+appsettings.json
+appsettings.Development.json
